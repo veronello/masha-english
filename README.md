@@ -2,7 +2,7 @@
 
 A simple website designed to make learning English approachable and motivating, with short exercises, reading activities, grammar in context, jokes, and pictures. New materials are added gradually. A white background, green accents, and a mobile-friendly layout keep the focus on the content.
 
-**[Visit the website](https://veronello.github.io/-masha-english/)**
+**[Visit the website](https://veronello.github.io/masha-english/)**
 
 ## What’s on the website
 
@@ -55,7 +55,7 @@ The site is hosted on **GitHub Pages**, using the `main` branch and the `/ (root
 
 Changes saved to `main` are published automatically by GitHub Pages. Deployment may take a few minutes; check its status in the repository’s Actions tab.
 
-**[Live website](https://veronello.github.io/-masha-english/)** · **[Repository](https://github.com/veronello/-masha-english)**
+**[Live website](https://veronello.github.io/masha-english/)** · **[Repository](https://github.com/veronello/masha-english)**
 
 ## Adding the site to your phone’s home screen
 
